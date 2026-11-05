@@ -170,5 +170,6 @@ Each run writes a `.wav` and an `.mp4` into the current folder and takes roughly
 - Thank you to the NASA scientists who gave the 22 October talk on the Pandora Project: Thomas Hanisco and Apoorva Pandey.
 - Built with Python, NumPy, pandas, Matplotlib and ffmpeg, with help from Claude.
 
-#   p a n d o r a - s - p l a y l i s t  
+#   p a n d o r a - s - p l a y l i s t 
+ 
  
