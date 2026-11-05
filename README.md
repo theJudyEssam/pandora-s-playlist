@@ -1,4 +1,3 @@
-# Listening to Athens' Sky 🎧🌍
 
 **A year of air-quality data from a NASA/ESA-backed Pandora instrument in Athens, turned into an animated chart with a synced soundtrack.**
 
